@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[indobits]]></title>
-  <link href="http://indobits.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Bienvenida | indobits]]></title>
+  <link href="http://indobits.github.io/blog/categories/bienvenida/atom.xml" rel="self"/>
   <link href="http://indobits.github.io/"/>
   <updated>2016-07-11T22:32:25-05:00</updated>
   <id>http://indobits.github.io/</id>
